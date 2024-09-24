@@ -1,0 +1,14 @@
+.heading{color: green;}
+.paragraph{background-color: black; color: white;}
+.headingvideo{color: red;}
+.video1{width: 560px;height: 315px;}
+.video2{width: 560px;height: 325px;}
+.video3{width: 560px;height: 315px;}
+table{ border: 1px solid black; border-collapse: collapse;}
+caption{font-size: 20px;}
+tr{border: 1px solid black}
+td{border: 1px solid black}
+th{border: 1px solid black}
+.headingtable{color: red}
+.backvideo{background-color: blue; color: yellow;}
+.backtable{background-color: black;color: white;}
